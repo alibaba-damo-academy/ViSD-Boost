@@ -22,7 +22,7 @@ If you find this repository useful, please cite:
 ```bibtex
 @inproceedings{cao2025boosting,
   title={Boosting vision semantic density with anatomy normality modeling for medical vision-language pre-training},
-  author={Cao, Weiwei and Zhang, Jianpeng and Shui, Zhongyi and Wang, Sinuo and Chen, Zeli and Li, Xi and Lu, Le and Ye, Xianghua and Zhang, Qi and Liang, Tingbo and others},
+  author={Cao, Weiwei and Zhang, Jianpeng and Shui, Zhongyi and Wang, Sinuo and Chen, Zeli and Li, Xi and Lu, Le and Ye, Xianghua and Zhang, Qi and Liang, Tingbo and Zhang Ling},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   pages={23041--23050},
   year={2025}
